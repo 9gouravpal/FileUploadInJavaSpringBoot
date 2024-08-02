@@ -1,0 +1,8 @@
+com\image\entity\UserEntity.class
+com\image\service\ServiceImpl.class
+com\image\mapsturt\MapperSturt.class
+com\image\controller\UserController.class
+com\image\mapsturt\MapperSturtImpl.class
+com\image\dto\UserDto.class
+com\image\NewImageApplication.class
+com\image\repository\UserRepository.class
